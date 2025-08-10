@@ -1,0 +1,10 @@
+# N26 相关域名（使用 HOST-SUFFIX 合并子域名）
+HOST-SUFFIX,tech26.de,N26
+HOST-SUFFIX,number26.de,N26
+HOST-SUFFIX,n26.com,N26
+
+# 第三方服务（使用 HOST-SUFFIX 合并子域名）
+HOST-SUFFIX,adjust.com,N26
+HOST-SUFFIX,braze.eu,N26
+HOST-SUFFIX,usercentrics.eu,N26
+HOST-SUFFIX,bugsnag.com,N26
