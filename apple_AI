@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,guzzoni.apple.com,Available
-DOMAIN-SUFFIX,cp4.cloudflare.com,Available
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com,Available
-DOMAIN-SUFFIX,apple-relay.cloudflare.com,Available
-DOMAIN-SUFFIX,apple-relay.apple.com,Available
-DOMAIN-SUFFIX,smoot.apple.com,Available
+DOMAIN-SUFFIX,guzzoni.apple.com,apple_intelligence
+DOMAIN-SUFFIX,cp4.cloudflare.com,apple_intelligence
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com,apple_intelligence
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,apple_intelligence
+DOMAIN-SUFFIX,apple-relay.apple.com,apple_intelligence
+DOMAIN-SUFFIX,smoot.apple.com,apple_intelligence
