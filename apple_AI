@@ -10,3 +10,9 @@ DOMAIN-SUFFIX,apple-relay.cloudflare.com,apple_intelligence
 DOMAIN-SUFFIX,apple-relay.apple.com,apple_intelligence
 # iOS、iPadOS、macOS 和 visionOS：搜索服务，包括 Siri、聚焦、查询、Safari 浏览器、新闻、信息和音乐
 DOMAIN-SUFFIX,smoot.apple.com,apple_intelligence
+# 新增1 iCloud 核心同步与认证网关
+DOMAIN-SUFFIX,gateway.icloud.com,apple_intelligence
+# 新增2 Apple 地图与定位服务 (Location Services)
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,apple_intelligence
+# 新增3 App Store 静态资源 CDN（内容分发网络）
+DOMAIN-SUFFIX,apps.mzstatic.com,apple_intelligence
