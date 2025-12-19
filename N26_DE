@@ -8,3 +8,7 @@ HOST-SUFFIX,adjust.com,N26
 HOST-SUFFIX,braze.eu,N26
 HOST-SUFFIX,usercentrics.eu,N26
 HOST-SUFFIX,bugsnag.com,N26
+
+# Coinbase (德区)
+DOMAIN-KEYWORD,coinbase
+DOMAIN-SUFFIX,coinbase.com
