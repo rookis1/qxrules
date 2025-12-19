@@ -9,5 +9,5 @@ HOST-SUFFIX,braze.eu,N26
 HOST-SUFFIX,usercentrics.eu,N26
 HOST-SUFFIX,bugsnag.com,N26
 
-# Coinbase (德区)
+# Coinbase (德区.)
 DOMAIN-SUFFIX,coinbase.com,N26
