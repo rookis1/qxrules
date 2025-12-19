@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,byapps.net,Bybit
 DOMAIN-SUFFIX,byd3c3.com,Bybit
 DOMAIN-SUFFIX,bybdc6.com,Bybit
 DOMAIN-SUFFIX,appsflyer.com,Bybit
+DOMAIN-SUFFIX,bybit.eu,Bybit
 
 IP-CIDR,13.32.121.6/32,Bybit
 IP-CIDR,43.133.238.145/32,Bybit
