@@ -1,0 +1,21 @@
+# Kraken 相关域名（使用 HOST-SUFFIX 合并子域名）
+HOST-SUFFIX,kraken.com,Kraken
+
+# 第三方服务（使用 HOST-SUFFIX 合并子域名）
+HOST-SUFFIX,segment.io,Kraken
+HOST-SUFFIX,segment.com,Kraken
+HOST-SUFFIX,launchdarkly.com,Kraken
+HOST-SUFFIX,appsflyersdk.com,Kraken
+HOST-SUFFIX,sentry.io,Kraken
+HOST-SUFFIX,zendesk.com,Kraken
+HOST-SUFFIX,sardine.ai,Kraken
+HOST-SUFFIX,bitdrift.io,Kraken
+HOST-SUFFIX,nsureapi.com,Kraken
+HOST-SUFFIX,statsigapi.net,Kraken
+HOST-SUFFIX,expo.dev,Kraken
+HOST-SUFFIX,eascdn.net,Kraken
+
+# 应用配置/统计服务（根据抓包域名命名推断）
+HOST-SUFFIX,app-analytics-services.com,Kraken
+HOST-SUFFIX,featureassets.org,Kraken
+HOST-SUFFIX,prodregistryv2.org,Kraken
