@@ -1,23 +1,6 @@
 # Wise 相关域名（使用 HOST-SUFFIX 合并子域名）
 HOST-SUFFIX,wise.com,Wise
 
-# 安全验证服务
-HOST-SUFFIX,challenges.cloudflare.com,Wise
-
-# 第三方分析/统计服务（使用 HOST-SUFFIX 合并子域名）
-HOST-SUFFIX,mixpanel.com,Wise
-HOST-SUFFIX,mxpnl.com,Wise
-HOST-SUFFIX,hotjar.com,Wise
-HOST-SUFFIX,hotjar.io,Wise
-HOST-SUFFIX,analytics.google.com,Wise
-HOST-SUFFIX,googletagmanager.com,Wise
-
-# 广告归因服务（使用抓包中确认的域名范围）
-HOST-SUFFIX,doubleclick.net,Wise
-HOST-SUFFIX,bat.bing.com,Wise
-HOST-SUFFIX,bat.bing.net,Wise
-HOST-SUFFIX,adsrvr.org,Wise
-HOST-SUFFIX,tvsquared.com,Wise
-HOST-SUFFIX,bidr.io,Wise
-HOST-SUFFIX,alb.reddit.com,Wise
-HOST-SUFFIX,redditstatic.com,Wise
+# Cloudflare 安全验证（仅在验证码或登录异常时取消注释）
+# HOST,challenges.cloudflare.com,Wise
+# HOST,brunhild.challenges.cloudflare.com,Wise
