@@ -1,6 +1,17 @@
-# Wise 相关域名（使用 HOST-SUFFIX 合并子域名）
+# Wise 核心及兼容域名（使用 HOST-SUFFIX 合并子域名）
 HOST-SUFFIX,wise.com,Wise
+HOST-SUFFIX,transferwise.com,Wise
 
-# Cloudflare 安全验证（仅在验证码或登录异常时取消注释）
-# HOST,challenges.cloudflare.com,Wise
-# HOST,brunhild.challenges.cloudflare.com,Wise
+# Cloudflare 安全验证（与 Wise 保持相同出口）
+HOST-SUFFIX,challenges.cloudflare.com,Wise
+
+# 反欺诈及身份验证服务
+HOST-SUFFIX,sardine.ai,Wise
+HOST-SUFFIX,veriff.com,Wise
+HOST-SUFFIX,veriff.me,Wise
+HOST,api.moscwise.com,Wise
+
+# Google reCAPTCHA（仅在抓包确认用于 Wise 验证时取消注释）
+# HOST-SUFFIX,recaptcha.net,Wise
+# HOST,www.google.com,Wise
+# HOST,www.gstatic.com,Wise
